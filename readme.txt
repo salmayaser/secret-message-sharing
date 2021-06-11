@@ -13,7 +13,7 @@ so how to convert the ascii characters to ascii code and then to base64 ??!!
 
 s                         e                           r
 115                      101                         99    => ascii code
-01111011               1111011111                   1010102  => binary representation 
+ => binary representation 
 -join all numbers together  (24)
 -split them into 6 groups
 -convert the binary of 6 characters to 64 base
